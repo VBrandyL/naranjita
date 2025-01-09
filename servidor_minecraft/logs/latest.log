@@ -142,3 +142,45 @@
 [04:08:55] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> haz lo q te dije para q no te baneen
 [04:09:01] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> y
 [04:09:05] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> cuando salgas del server
+[04:09:14] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> vas a lo de la terminar esa
+[04:09:21] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> okas
+[04:09:29] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> vas a ir a gestionar
+[04:09:41] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> y luego a crear backup
+[04:09:57] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> y luego de hacer eso
+[04:10:00] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> le das a salir
+[04:10:04] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> ahora
+[04:10:12] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> dsp de eso vas a lo de codespace
+[04:10:20] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> y en los 3 puntos
+[04:10:24] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> me lo escribes por mnj
+[04:10:29] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> coño
+[04:10:31] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> mensaje
+[04:10:40] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> porque se me va a olvidar
+[04:10:51] [Server thread/INFO]: david_gumer123 lost connection: Disconnected
+[04:10:51] [Server thread/INFO]: david_gumer123 left the game
+[04:15:43] [Server thread/INFO]: naran_jita lost connection: Disconnected
+[04:15:43] [Server thread/INFO]: naran_jita left the game
+[04:15:43] [Server thread/INFO]: Stopping server
+[04:15:43] [Server thread/INFO]: Saving players
+[04:15:43] [Server thread/INFO]: Saving worlds
+[04:15:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:15:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[04:15:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[04:15:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Saved 360 block chunks, 225 entity chunks, 0 poi chunks in world 'world' in 0.42s
+[04:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 18 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[04:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[04:15:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[04:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:15:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:15:44] [Server thread/INFO]: Flushing Chunk IO
+[04:15:44] [Server thread/INFO]: Closing Thread Pool
+[04:15:44] [Server thread/INFO]: Closing Server
