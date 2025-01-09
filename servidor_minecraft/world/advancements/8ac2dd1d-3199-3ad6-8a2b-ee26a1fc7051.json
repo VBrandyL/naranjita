@@ -18,6 +18,7 @@
       "minecraft:deep_dark": "2025-01-09 02:33:09 +0000",
       "minecraft:jungle": "2025-01-09 01:24:38 +0000",
       "minecraft:ocean": "2025-01-09 03:14:23 +0000",
+      "minecraft:meadow": "2025-01-09 04:01:56 +0000",
       "minecraft:savanna": "2025-01-09 03:09:41 +0000",
       "minecraft:wooded_badlands": "2025-01-09 01:20:28 +0000",
       "minecraft:plains": "2025-01-09 03:08:33 +0000",
@@ -1489,6 +1490,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-09 04:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-01-09 03:48:56 +0000"
@@ -1576,6 +1583,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-09 03:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-09 04:02:23 +0000"
     },
     "done": true
   },

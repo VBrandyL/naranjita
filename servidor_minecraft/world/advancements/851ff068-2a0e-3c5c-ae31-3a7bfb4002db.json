@@ -18,6 +18,7 @@
       "minecraft:desert": "2025-01-09 03:04:21 +0000",
       "minecraft:jungle": "2025-01-09 01:24:34 +0000",
       "minecraft:ocean": "2025-01-09 03:14:23 +0000",
+      "minecraft:meadow": "2025-01-09 04:01:39 +0000",
       "minecraft:savanna": "2025-01-09 03:10:06 +0000",
       "minecraft:wooded_badlands": "2025-01-09 01:22:00 +0000",
       "minecraft:plains": "2025-01-09 03:08:23 +0000",
@@ -1675,6 +1676,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-09 03:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-09 04:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-09 04:02:51 +0000"
     },
     "done": true
   },
