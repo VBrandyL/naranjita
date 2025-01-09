@@ -1,142 +1,36 @@
-[02:45:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:45:10] [ServerMain/INFO]: Loaded 1174 recipes
-[02:45:11] [ServerMain/INFO]: Loaded 1271 advancements
-[02:45:12] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:45:12] [Server thread/INFO]: Loading properties
-[02:45:12] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[02:45:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:45:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:45:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:29:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:29:08] [ServerMain/INFO]: Loaded 1174 recipes
+[03:29:09] [ServerMain/INFO]: Loaded 1271 advancements
+[03:29:09] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:29:09] [Server thread/INFO]: Loading properties
+[03:29:10] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[03:29:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:29:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:29:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:45:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:45:18] [Server thread/INFO]: Default game type: SURVIVAL
-[02:45:18] [Server thread/INFO]: Generating keypair
-[02:45:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:45:18] [Server thread/INFO]: Using epoll channel type
-[02:45:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:45:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:45:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:45:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:45:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:45:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:45:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:45:18] [Server thread/INFO]: Preparing level "world"
-[02:45:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:45:21] [Server thread/INFO]: Time elapsed: 971 ms
-[02:45:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:45:22] [Server thread/INFO]: Time elapsed: 305 ms
-[02:45:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:45:22] [Server thread/INFO]: Time elapsed: 83 ms
-[02:45:22] [Server thread/INFO]: Running delayed init tasks
-[02:45:22] [Server thread/INFO]: Done (10.379s)! For help, type "help"
-[02:45:22] [Server thread/INFO]: Timings Reset
-[02:45:49] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[02:45:51] [Server thread/INFO]: naran_jita joined the game
-[02:45:51] [Server thread/INFO]: naran_jita[/127.32.240.42:35617] logged in with entity id 180 at ([world]13.267407624762406, 111.0, -15.400786990087928)
-[02:46:23] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[02:46:23] [Server thread/INFO]: david_gumer123 joined the game
-[02:46:24] [Server thread/INFO]: david_gumer123[/127.106.39.124:42431] logged in with entity id 302 at ([world]49.055354975934065, -42.0, 8.07875726667605)
-[02:48:30] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> oe
-[02:48:34] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> mande
-[02:48:37] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> el flor de esporas te sirve para algo?
-[02:48:46] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> decorAcion
-[02:48:58] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> me gusta como se ven
-[02:49:05] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> pero se puede plantar y q crezcan mas?
-[02:49:19] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> no, solo aparecen en cuevas asi
-[02:49:23] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> aok
-[02:49:41] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> es q retrocedi en el tiempo
-[02:50:09] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> eso nos pasaba en un server en el que estuvimos
-[02:50:29] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> ns
-[02:50:30] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> xd
-[02:50:32] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> recuerdo que aprovechaba porque se guardaba el inventario y picaba diamantes cuando iba a ser eso
-[02:50:40] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> jajjsaW
-[02:50:41] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> y asi hacia mas diamantes
-[02:51:11] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> tengo 40 de troncos esos
-[02:51:16] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> con esos?
-[02:51:23] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> tienes zapling tambien?
-[02:51:29] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> que es eso
-[02:51:36] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> la semilla que deja para plantar
-[02:51:47] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> ahh, no, deja agarro
-[02:51:54] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> solo que ya es de noche
-[02:52:29] [Server thread/WARN]: david_gumer123 moved too quickly! -11.852433342019864,-2.0,1.157438356331994
-[02:52:47] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> me voy a quedar arriba de un arbol de los grandotes
-[02:55:33] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> esperate q ns como subir
-[02:55:45] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> JJKAJKAJAKJAJAJ
-[02:57:33] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> pasa cords
-[02:57:54] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> 25 123 -12
-[02:58:27] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ya casi amanece
-[02:58:38] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> mira arriba
-[02:58:47] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ponme agua porfi
-[02:59:08] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ten
-[02:59:37] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> y mi ajolote
-[02:59:50] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ese el rosa
-[03:00:13] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> para alla hay desierto
-[03:00:24] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> aja
-[03:00:54] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> bueno vamos alla
-[03:00:58] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> tienes hacha?
-[03:01:05] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> hazte una
-[03:01:14] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> no he agarrado cacao ni brotes del arbol ese
-[03:02:14] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> ya
-[03:02:37] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> llevame al desierto
-[03:03:08] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> ven
-[03:03:23] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> estoy aca
-[03:03:30] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> dnd
-[03:03:37] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> en el barco boba
-[03:03:41] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> a
-[03:04:08] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> oe la caña
-[03:04:47] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> hay lava
-[03:04:57] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> hacemos obsidiana
-[03:05:00] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> ?
-[03:05:02] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> dame el hierro
-[03:05:03] [Async Chat Thread - #7/INFO]: [Not Secure] <david_gumer123> si
-[03:05:17] [Async Chat Thread - #7/INFO]: [Not Secure] <naran_jita> dame tres diamantes
-[03:05:51] [Server thread/INFO]: david_gumer123 has made the advancement [Ice Bucket Challenge]
-[03:05:58] [Server thread/INFO]: naran_jita has made the advancement [Ice Bucket Challenge]
-[03:07:16] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> cuando teiens'}'
-[03:07:22] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> 8
-[03:07:39] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> ya ta
-[03:07:47] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> toma
-[03:08:04] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> no me diste nada
-[03:08:10] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> te di la flor esa
-[03:08:12] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> la de azale
-[03:08:13] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> a no si
-[03:08:27] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> no me pege swebon
-[03:08:34] [Server thread/WARN]: david_gumer123 moved too quickly! 0.3528344604172844,0.04353562014750878,-10.896770829674836
-[03:09:03] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> oooo comidaaa
-[03:09:34] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> oe
-[03:09:38] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> eu
-[03:09:44] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> literalmente esta zona tiene la mayoria de los biomas
-[03:09:53] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> yep
-[03:10:03] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> deiserto,terracota, normal. savana, bosque
-[03:10:47] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> tienes horno?
-[03:11:45] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> dame 4 de bosdianada
-[03:12:20] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> dame le chuleto de cerdo
-[03:13:53] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.3195358664024752
-[03:13:53] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.38930405404914836
-[03:13:53] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.3776227669962964
-[03:13:53] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.3655424070833533
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.4366909568344681
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.49439142107951284
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.2653185804470013
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.275814849945732
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.5610879352935854
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.29376809987854813
-[03:13:54] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.5581593827652114
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.28968960345287087
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.29693977707506747
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.34765210676175684
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.3838679459755667
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.5796124983273785
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.4135491668483837
-[03:13:57] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.4367739893027647
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.4790844027562571
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.25179757310058903
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.5134877318996587
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.2704149772314395
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.5507377570189647
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.841391623188656
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.2615884726230888
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.4025846329853948
-[03:13:58] [Server thread/WARN]: Oak Boat (vehicle of naran_jita) moved wrongly! 0.3119646278798882
-[03:14:43] [Async Chat Thread - #10/INFO]: [Not Secure] <naran_jita> que es eso?
+[03:29:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:29:12] [Server thread/INFO]: Default game type: SURVIVAL
+[03:29:12] [Server thread/INFO]: Generating keypair
+[03:29:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:29:13] [Server thread/INFO]: Using epoll channel type
+[03:29:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:29:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:29:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:29:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:29:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:29:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:29:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:29:13] [Server thread/INFO]: Preparing level "world"
+[03:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:29:14] [Server thread/INFO]: Time elapsed: 380 ms
+[03:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:29:15] [Server thread/INFO]: Time elapsed: 364 ms
+[03:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:29:15] [Server thread/INFO]: Time elapsed: 150 ms
+[03:29:15] [Server thread/INFO]: Running delayed init tasks
+[03:29:15] [Server thread/INFO]: Done (5.548s)! For help, type "help"
+[03:29:15] [Server thread/INFO]: Timings Reset
+[03:32:06] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
+[03:32:06] [Server thread/INFO]: naran_jita joined the game
+[03:32:07] [Server thread/INFO]: naran_jita[/127.32.240.42:33067] logged in with entity id 66 at ([world]805.0833461560183, 58.0, -715.6601408450539)
