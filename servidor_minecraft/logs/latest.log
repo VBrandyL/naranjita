@@ -1,111 +1,63 @@
-[02:02:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:02:41] [ServerMain/INFO]: Loaded 1174 recipes
-[02:02:42] [ServerMain/INFO]: Loaded 1271 advancements
-[02:02:42] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:02:42] [Server thread/INFO]: Loading properties
-[02:02:42] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[02:02:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:02:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:02:46] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[02:45:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:45:10] [ServerMain/INFO]: Loaded 1174 recipes
+[02:45:11] [ServerMain/INFO]: Loaded 1271 advancements
+[02:45:12] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:45:12] [Server thread/INFO]: Loading properties
+[02:45:12] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[02:45:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:45:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:45:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:02:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:02:46] [Server thread/INFO]: Default game type: SURVIVAL
-[02:02:46] [Server thread/INFO]: Generating keypair
-[02:02:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:02:47] [Server thread/INFO]: Using epoll channel type
-[02:02:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:02:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:02:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:02:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:02:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:02:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:02:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:02:47] [Server thread/INFO]: Preparing level "world"
-[02:02:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:02:50] [Server thread/INFO]: Time elapsed: 529 ms
-[02:02:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:02:50] [Server thread/INFO]: Time elapsed: 396 ms
-[02:02:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:02:50] [Server thread/INFO]: Time elapsed: 218 ms
-[02:02:51] [Server thread/INFO]: Running delayed init tasks
-[02:02:51] [Server thread/INFO]: Done (8.403s)! For help, type "help"
-[02:02:51] [Server thread/INFO]: Timings Reset
-[02:03:05] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[02:03:06] [Server thread/INFO]: naran_jita joined the game
-[02:03:07] [Server thread/INFO]: naran_jita[/127.32.240.42:41771] logged in with entity id 195 at ([world]63.53367696994601, 30.0, 59.01086915862182)
-[02:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
-[02:12:21] [Server thread/INFO]: naran_jita has made the advancement [Diamonds!]
-[02:14:08] [User Authenticator #1/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[02:14:09] [Server thread/INFO]: david_gumer123 joined the game
-[02:14:09] [Server thread/INFO]: david_gumer123[/127.106.39.124:58057] logged in with entity id 1483 at ([world]3.3513226132336302, 39.0, -27.295515708513715)
-[02:14:25] [Server thread/INFO]: naran_jita lost connection: Disconnected
-[02:14:25] [Server thread/INFO]: naran_jita left the game
-[02:14:28] [User Authenticator #1/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[02:14:28] [Server thread/INFO]: naran_jita joined the game
-[02:14:29] [Server thread/INFO]: naran_jita[/127.32.240.42:43681] logged in with entity id 1610 at ([world]52.59311361908823, -13.0, 129.69999998807907)
-[02:14:33] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> oaaaaaaaaa
-[02:14:35] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> oaa
-[02:14:54] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> ando en la
-[02:15:07] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> 51 -1 128
-[02:15:24] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> cuando de hambre tienes?
-[02:15:39] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> dos
-[02:15:47] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> encontre mas bayas luminosas
-[02:15:59] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> a
-[02:16:25] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> tenemos un mar arriba
-[02:16:40] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> hay peces tropicales muriendose donde estoy
-[02:16:59] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> pero no estas en la cueva¿
-[02:18:30] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> si
-[02:18:39] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> sigue mis coordenadas
-[02:18:44] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> esta la cueva grande
-[02:19:26] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> ta
-[02:24:36] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> esta maaaaaaaas grande
-[02:24:42] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> oe yo diria q hay q salir
-[02:24:47] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> nos vamos a quedar sin comida xd
-[02:24:54] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> yo tengo
-[02:25:02] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> caunto?
-[02:25:48] [Server thread/INFO]: naran_jita fell from a high place
-[02:25:51] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> na bueno
-[02:25:55] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> XD
-[02:25:59] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> me empujasteeeeeeeeeeeee
-[02:26:04] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> no te empuejee
-[02:26:05] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> por el mismo movimiento
-[02:26:07] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> yo estaba abajo
-[02:26:33] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> puedes hacer un cofre y meter mis cosas en lo que llego
-[02:26:44] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> sisi
-[02:27:35] [Server thread/INFO]: naran_jita was doomed to fall by Spider
-[02:28:44] [Server thread/INFO]: naran_jita fell from a high place
-[02:28:45] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> 47 -44 7
-[02:28:49] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> xd
-[02:28:51] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> gracias
-[02:29:58] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> oe no me dijiste q tenias 9 diamnres
-[02:30:10] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> los agarre ahorita
-[02:30:16] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> antes de que entraras
-[02:30:51] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> hay cso de warden aca
-[02:31:03] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> ays
-[02:34:16] [Async Chat Thread - #10/INFO]: [Not Secure] <naran_jita> no m acuerdo por dnde era
-[02:34:37] [Async Chat Thread - #10/INFO]: [Not Secure] <david_gumer123> bajas vas a las luminosas
-[02:34:42] [Async Chat Thread - #10/INFO]: [Not Secure] <david_gumer123> y vas mas abajo
-[02:34:48] [Async Chat Thread - #10/INFO]: [Not Secure] <david_gumer123> donde hay agua
-[02:35:28] [Server thread/INFO]: naran_jita was shot by Skeleton
-[02:36:48] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> mira
-[02:36:51] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> emm
-[02:36:59] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> como nos estamos quedando sin comida ya
-[02:37:08] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> subo con algunas cosa tuyas
-[02:37:43] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> oka
-[02:37:57] [Server thread/INFO]: naran_jita fell from a high place
-[02:38:05] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> te espero arriba
-[02:38:47] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> tenemos
-[02:38:55] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> de las cosas de azalea que quiereqs que lleve?
-[02:39:00] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> jungla, pantano y bioma ese de terracota
-[02:39:02] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> osea cual sirve para plantrar?
-[02:39:10] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> la que tiene flores
-[02:39:35] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> la azalea florecida?
-[02:39:40] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> siiiiiii
-[02:40:00] [Server thread/INFO]: naran_jita fell from a high place
-[02:40:09] [Server thread/INFO]: naran_jita fell from a high place
-[02:40:26] [Server thread/INFO]: naran_jita fell from a high place
-[02:40:47] [Server thread/INFO]: naran_jita fell from a high place
-[02:41:06] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> enemos desieerto si vamos a el bioma de la terracota
-[02:41:46] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> agarra zaplings y tronco de bosque
-[02:41:47] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> voy a ver que mas hay, me dices cuando salgas de la cueva para suicidarme y regresar
+[02:45:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:45:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:45:18] [Server thread/INFO]: Generating keypair
+[02:45:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:45:18] [Server thread/INFO]: Using epoll channel type
+[02:45:18] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:45:18] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:45:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:45:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:45:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:45:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:45:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:45:18] [Server thread/INFO]: Preparing level "world"
+[02:45:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:45:21] [Server thread/INFO]: Time elapsed: 971 ms
+[02:45:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:45:22] [Server thread/INFO]: Time elapsed: 305 ms
+[02:45:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:45:22] [Server thread/INFO]: Time elapsed: 83 ms
+[02:45:22] [Server thread/INFO]: Running delayed init tasks
+[02:45:22] [Server thread/INFO]: Done (10.379s)! For help, type "help"
+[02:45:22] [Server thread/INFO]: Timings Reset
+[02:45:49] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
+[02:45:51] [Server thread/INFO]: naran_jita joined the game
+[02:45:51] [Server thread/INFO]: naran_jita[/127.32.240.42:35617] logged in with entity id 180 at ([world]13.267407624762406, 111.0, -15.400786990087928)
+[02:46:23] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
+[02:46:23] [Server thread/INFO]: david_gumer123 joined the game
+[02:46:24] [Server thread/INFO]: david_gumer123[/127.106.39.124:42431] logged in with entity id 302 at ([world]49.055354975934065, -42.0, 8.07875726667605)
+[02:48:30] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> oe
+[02:48:34] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> mande
+[02:48:37] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> el flor de esporas te sirve para algo?
+[02:48:46] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> decorAcion
+[02:48:58] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> me gusta como se ven
+[02:49:05] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> pero se puede plantar y q crezcan mas?
+[02:49:19] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> no, solo aparecen en cuevas asi
+[02:49:23] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> aok
+[02:49:41] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> es q retrocedi en el tiempo
+[02:50:09] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> eso nos pasaba en un server en el que estuvimos
+[02:50:29] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> ns
+[02:50:30] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> xd
+[02:50:32] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> recuerdo que aprovechaba porque se guardaba el inventario y picaba diamantes cuando iba a ser eso
+[02:50:40] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> jajjsaW
+[02:50:41] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> y asi hacia mas diamantes
+[02:51:11] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> tengo 40 de troncos esos
+[02:51:16] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> con esos?
+[02:51:23] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> tienes zapling tambien?
+[02:51:29] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> que es eso
+[02:51:36] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> la semilla que deja para plantar
+[02:51:47] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> ahh, no, deja agarro
+[02:51:54] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> solo que ya es de noche
+[02:52:29] [Server thread/WARN]: david_gumer123 moved too quickly! -11.852433342019864,-2.0,1.157438356331994
+[02:52:47] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> me voy a quedar arriba de un arbol de los grandotes
