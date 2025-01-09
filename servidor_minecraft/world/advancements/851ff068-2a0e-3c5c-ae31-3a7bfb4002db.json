@@ -8,12 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-01-09 02:35:35 +0000",
+      "minecraft:beach": "2025-01-09 03:08:48 +0000",
+      "minecraft:desert": "2025-01-09 03:04:21 +0000",
       "minecraft:forest": "2025-01-09 01:25:25 +0000",
       "minecraft:sparse_jungle": "2025-01-09 02:31:35 +0000",
       "minecraft:jungle": "2025-01-09 01:24:34 +0000",
       "minecraft:river": "2025-01-09 01:50:00 +0000",
       "minecraft:lush_caves": "2025-01-09 01:37:47 +0000",
-      "minecraft:wooded_badlands": "2025-01-09 01:22:00 +0000"
+      "minecraft:savanna": "2025-01-09 03:10:06 +0000",
+      "minecraft:wooded_badlands": "2025-01-09 01:22:00 +0000",
+      "minecraft:plains": "2025-01-09 03:08:23 +0000"
     },
     "done": false
   },
@@ -1429,6 +1433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-09 03:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-01-09 03:00:46 +0000"
@@ -1438,6 +1448,48 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-09 03:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-09 03:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-09 03:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-09 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-09 03:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-09 03:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-09 03:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-09 03:04:43 +0000"
     },
     "done": true
   },
