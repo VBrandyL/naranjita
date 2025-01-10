@@ -1,3 +1,4 @@
+# Check for updates on startup, this uses the modrinth api to get the newest version for your server.
 check-for-updates: true
 messages:
   prefix: §8[§6JustTPA§8] §7
@@ -38,12 +39,21 @@ messages:
     teleported-to: You have been teleported to %playername%.
     teleported-from: '%playername% has been teleported to you.'
 tpa:
+  # Time in seconds you have to accept a teleport request
   timeout: 60
+  # Time in seconds until the return command times out. Put 0 to make it usable indefinitely.
   return-timeout: 60
+  # Time in seconds you have to wait before you teleport (after teleport request was accepted)
+  # Any movement will cancel the teleport, 0 to disable
+  # Note: this feature is not implemented yet, teleports are currently instant.
   wait: 5
+  # Makes the plugin spam the console with maybe useful information (more verbose)
   verbose: false
   cooldowns:
+    # Time in seconds you have to wait before you can send another teleport request
     tpa: 60
+    # Time in seconds you have to wait before you can send another tpa here request
     tpaHere: 60
 bStats:
+  # Enable bStats for this plugin
   enabled: true

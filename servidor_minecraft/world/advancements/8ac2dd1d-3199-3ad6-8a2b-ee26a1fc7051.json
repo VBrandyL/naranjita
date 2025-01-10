@@ -279,9 +279,12 @@
       "minecraft:skeleton": "2025-01-09 01:28:02 +0000",
       "minecraft:zombified_piglin": "2025-01-10 00:23:45 +0000",
       "minecraft:enderman": "2025-01-10 00:23:39 +0000",
+      "minecraft:silverfish": "2025-01-10 23:19:09 +0000",
+      "minecraft:witch": "2025-01-10 23:13:35 +0000",
       "minecraft:spider": "2025-01-09 02:23:12 +0000",
       "minecraft:piglin_brute": "2025-01-10 00:40:41 +0000",
-      "minecraft:zombie": "2025-01-09 01:24:25 +0000"
+      "minecraft:zombie": "2025-01-09 01:24:25 +0000",
+      "minecraft:creeper": "2025-01-10 23:38:28 +0000"
     },
     "done": false
   },
@@ -2285,6 +2288,96 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-01-10 03:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-10 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-10 23:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-10 23:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-10 23:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 23:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-10 23:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-10 23:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-10 23:11:14 +0000"
     },
     "done": true
   },
