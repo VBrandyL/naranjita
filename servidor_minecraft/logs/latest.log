@@ -1,59 +1,6 @@
-[22:51:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:51:24] [ServerMain/INFO]: Loaded 1174 recipes
-[22:51:24] [ServerMain/INFO]: Loaded 1271 advancements
-[22:51:25] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[22:51:25] [Server thread/INFO]: Loading properties
-[22:51:25] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[22:51:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:51:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:51:27] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[22:51:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[22:51:27] [Server thread/INFO]: Default game type: SURVIVAL
-[22:51:27] [Server thread/INFO]: Generating keypair
-[22:51:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:51:28] [Server thread/INFO]: Using epoll channel type
-[22:51:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:51:28] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:51:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:51:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:51:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:51:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:51:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:51:28] [Server thread/INFO]: Preparing level "world"
-[22:51:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:51:30] [Server thread/INFO]: Time elapsed: 482 ms
-[22:51:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:51:30] [Server thread/INFO]: Time elapsed: 372 ms
-[22:51:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:51:30] [Server thread/INFO]: Time elapsed: 155 ms
-[22:51:30] [Server thread/INFO]: Running delayed init tasks
-[22:51:30] [Server thread/INFO]: Done (5.538s)! For help, type "help"
-[22:51:30] [Server thread/INFO]: Timings Reset
-[22:53:01] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[22:53:02] [Server thread/INFO]: naran_jita joined the game
-[22:53:02] [Server thread/INFO]: naran_jita[/127.203.35.244:52917] logged in with entity id 66 at ([world]1094.4632115126199, 126.5625, -57.81329161208424)
-[23:34:47] [User Authenticator #1/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[23:34:48] [Server thread/INFO]: david_gumer123 joined the game
-[23:34:48] [Server thread/INFO]: david_gumer123[/127.106.39.124:36275] logged in with entity id 6114 at ([world]1086.699999988079, 120.0, -47.31859432585227)
-[23:35:01] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> holaaaaaaaa
-[23:35:04] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> oaa
-[23:35:23] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> podes llamda?
-[23:36:39] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> no creo poder
-[23:38:17] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> hiciste loq tedije¡
-[23:38:19] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ¡
-[23:38:20] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ¿
-[23:38:32] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> creo que si, hice el intento
-[23:38:40] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> bueno
-[23:38:50] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> porq si te suspenden la cuenta no podes recuperrar el server
-[23:41:40] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> q haces
-[23:41:46] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> minando
-[23:42:08] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> te llevaste una cama
-[23:42:11] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> ?
-[23:42:17] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> no
-[23:49:36] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> es de dia?
-[23:49:40] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> nop
-[23:49:45] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> apenas va a amanecer
-[23:49:50] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> ok
-[23:49:58] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> tengo un aldeano zombie
+[00:00:33] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> AJKSJKAJSJ
+[00:00:50] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> de lo mientras buscamos donde conseguir una etiqueta
+[00:01:20] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> ya se esta haciendo de noche
+[00:01:29] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> espera poquito
+[00:01:32] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> tenes spawner, el indigena, aldeano,
+[00:01:41] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> maisnhaf
