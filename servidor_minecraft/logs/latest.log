@@ -1,129 +1,68 @@
-[00:08:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:09:02] [ServerMain/INFO]: Loaded 1174 recipes
-[00:09:02] [ServerMain/INFO]: Loaded 1271 advancements
-[00:09:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[00:09:03] [Server thread/INFO]: Loading properties
-[00:09:03] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[00:09:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:09:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:09:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[00:46:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:46:58] [ServerMain/INFO]: Loaded 1174 recipes
+[00:46:59] [ServerMain/INFO]: Loaded 1271 advancements
+[00:46:59] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[00:46:59] [Server thread/INFO]: Loading properties
+[00:47:00] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[00:47:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:47:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:47:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:09:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:09:08] [Server thread/INFO]: Default game type: SURVIVAL
-[00:09:08] [Server thread/INFO]: Generating keypair
-[00:09:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:09:09] [Server thread/INFO]: Using epoll channel type
-[00:09:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:09:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:09:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:09:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:09:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:09:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:09:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:09:09] [Server thread/INFO]: Preparing level "world"
-[00:09:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:09:11] [Server thread/INFO]: Time elapsed: 980 ms
-[00:09:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:09:12] [Server thread/INFO]: Time elapsed: 197 ms
-[00:09:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:09:12] [Server thread/INFO]: Time elapsed: 169 ms
-[00:09:12] [Server thread/INFO]: Running delayed init tasks
-[00:09:12] [Server thread/INFO]: Done (8.790s)! For help, type "help"
-[00:09:12] [Server thread/INFO]: Timings Reset
-[00:09:19] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[00:09:21] [Server thread/INFO]: naran_jita joined the game
-[00:09:21] [Server thread/INFO]: naran_jita[/127.203.35.244:39897] logged in with entity id 23 at ([world]1093.50901896771, 127.0, -55.76366896623205)
-[00:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[00:09:41] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[00:09:42] [Server thread/INFO]: david_gumer123 joined the game
-[00:09:42] [Server thread/INFO]: david_gumer123[/127.106.39.124:47197] logged in with entity id 343 at ([world]1158.3430778723805, 116.0, 111.49639525116976)
-[00:09:43] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: c0037a90-5707-48fc-8456-aabdddaa9bdc, mapped to EntityBat['Bat'/345, uuid='c0037a90-5707-48fc-8456-aabdddaa9bdc', l='ServerLevel[world]', x=1149.10, y=-26.08, z=158.80, cpos=[71, 9], tl=867, v=true], can't add EntityBat['Bat'/353, uuid='c0037a90-5707-48fc-8456-aabdddaa9bdc', l='ServerLevel[world]', x=1150.41, y=-26.90, z=160.70, cpos=[71, 10], tl=921, v=false]
-[00:09:43] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: ca8553fb-fe67-47c1-81d1-9e2bbcbbc27d, mapped to EntityBat['Bat'/347, uuid='ca8553fb-fe67-47c1-81d1-9e2bbcbbc27d', l='ServerLevel[world]', x=1180.98, y=57.07, z=156.49, cpos=[73, 9], tl=1135, v=true], can't add EntityBat['Bat'/358, uuid='ca8553fb-fe67-47c1-81d1-9e2bbcbbc27d', l='ServerLevel[world]', x=1185.71, y=57.81, z=161.96, cpos=[74, 10], tl=1189, v=false]
-[00:09:43] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: abc99317-c07f-4d41-8014-df94bc882fbd, mapped to EntitySpider['Spider'/372, uuid='abc99317-c07f-4d41-8014-df94bc882fbd', l='ServerLevel[world]', x=1180.55, y=21.00, z=206.64, cpos=[73, 12], tl=48, v=true], can't add EntitySpider['Spider'/394, uuid='abc99317-c07f-4d41-8014-df94bc882fbd', l='ServerLevel[world]', x=1176.01, y=20.04, z=208.50, cpos=[73, 13], tl=176, v=false]
-[00:09:43] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 768506e9-aa88-458d-83ce-355f0c1b86ab, mapped to EntityBat['Bat'/373, uuid='768506e9-aa88-458d-83ce-355f0c1b86ab', l='ServerLevel[world]', x=1174.81, y=3.07, z=202.59, cpos=[73, 12], tl=1579, v=true], can't add EntityBat['Bat'/395, uuid='768506e9-aa88-458d-83ce-355f0c1b86ab', l='ServerLevel[world]', x=1175.03, y=5.03, z=208.01, cpos=[73, 13], tl=1707, v=false]
-[00:09:47] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 86d84a19-51b4-44d5-b178-b07a77f09d95, mapped to EntityVillager['Weaponsmith'/479, uuid='86d84a19-51b4-44d5-b178-b07a77f09d95', l='ServerLevel[world]', x=1305.50, y=65.56, z=252.31, cpos=[81, 15], tl=2919, v=true], can't add EntityVillager['Weaponsmith'/489, uuid='86d84a19-51b4-44d5-b178-b07a77f09d95', l='ServerLevel[world]', x=1328.04, y=64.00, z=239.07, cpos=[83, 14], tl=1690, v=false]
-[00:09:47] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: c358554b-fec7-436a-9e2c-9c60b8dc7383, mapped to EntityVillager['Villager'/487, uuid='c358554b-fec7-436a-9e2c-9c60b8dc7383', l='ServerLevel[world]', x=1293.36, y=64.94, z=269.50, cpos=[80, 16], tl=2201, v=true], can't add EntityVillager['Villager'/499, uuid='c358554b-fec7-436a-9e2c-9c60b8dc7383', l='ServerLevel[world]', x=1328.03, y=64.00, z=254.88, cpos=[83, 15], tl=1173, v=false]
-[00:13:03] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> ta
-[00:13:16] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> y me quede sin comida d
-[00:13:17] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> xd
-[00:13:25] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> ve a la base
-[00:14:06] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> cual es mi ajolote xd¡
-[00:14:09] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> ¿
-[00:14:13] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> el de la izquierda
-[00:14:21] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> pk
-[00:14:23] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> ok
-[00:15:29] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> donde estga la obsidana
-[00:15:33] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> ns
-[00:15:43] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> como que nosabes
-[00:15:57] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> ahi debe de estar, en algun cofre, no se en cual
-[00:16:04] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> no no esta
-[00:16:38] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> voy
-[00:17:07] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> ta
-[00:17:08] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> XD
-[00:17:14] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> KAJSJASJA
-[00:18:50] [Server thread/INFO]: naran_jita has made the advancement [We Need to Go Deeper]
-[00:18:51] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> lo agarre?
-[00:18:54] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> si
-[00:19:10] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ando lag y no me carga nada creo xd
-[00:19:32] [Server thread/INFO]: david_gumer123 has made the advancement [We Need to Go Deeper]
-[00:19:33] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> si entras al portal llegas a un bioma con arena de almas
-[00:21:09] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> tienes pala¿
-[00:21:13] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> nop
-[00:21:20] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> voy y hago unas?
-[00:21:31] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> hazte escalera xd
-[00:23:54] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> no salgas
-[00:23:54] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> xd
-[00:23:57] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> LASKAKSKASK
-[00:24:04] [Async Chat Thread - #9/INFO]: [Not Secure] <david_gumer123> espera a que se calmen
-[00:24:09] [Async Chat Thread - #9/INFO]: [Not Secure] <david_gumer123> te pasa por boba
-[00:24:13] [Async Chat Thread - #9/INFO]: [Not Secure] <naran_jita> deja salgo y vuelvo a entrar
-[00:24:15] [Server thread/INFO]: naran_jita lost connection: Disconnected
-[00:24:15] [Server thread/INFO]: naran_jita left the game
-[00:24:17] [User Authenticator #1/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[00:24:17] [Server thread/INFO]: naran_jita joined the game
-[00:24:17] [Server thread/INFO]: naran_jita[/127.203.35.244:35891] logged in with entity id 2495 at ([world_nether]133.69999998807907, 86.0, 140.69999998807907)
-[00:25:30] [Async Chat Thread - #10/INFO]: [Not Secure] <naran_jita> aun estan enojados
-[00:25:41] [Async Chat Thread - #11/INFO]: [Not Secure] <david_gumer123> te dije que esperes
-[00:26:44] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> tenemos bastion
-[00:26:45] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> pero
-[00:26:55] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> no me meteria con este lag hasta estar por lo menos diamante
-[00:27:15] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> si no tuviese lag me mando hasta con hierro
-[00:27:22] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> pero los golpes van com 5 horas dsp
-[00:27:50] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> ya esta pòdes venir
-[00:28:03] [Async Chat Thread - #12/INFO]: [Not Secure] <naran_jita> AJKSJASJ no creo, volvi a matar a otro
-[00:28:08] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> hay dios
-[00:28:29] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> los odias oq
-[00:28:30] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> xcd
-[00:29:03] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> ya
-[00:29:18] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> a dnd voy?
-[00:29:26] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> donde hay un camino de piedra
-[00:29:54] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> no veo
-[00:30:05] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> espera
-[00:30:10] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> voy a salir un momento
-[00:30:12] [Server thread/INFO]: naran_jita lost connection: Disconnected
-[00:30:12] [Server thread/INFO]: naran_jita left the game
-[00:31:10] [User Authenticator #2/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[00:31:11] [Server thread/INFO]: naran_jita joined the game
-[00:31:11] [Server thread/INFO]: naran_jita[/127.203.35.244:53973] logged in with entity id 3427 at ([world_nether]184.98488239062226, 70.0, 120.79150133059292)
-[00:31:59] [Server thread/INFO]: naran_jita was doomed to fall by Piglin
-[00:32:11] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> KASJKJAS
-[00:32:15] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> cayeron tusc osas a la lava¿
-[00:32:25] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> no
-[00:32:26] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> tenemos como 3 bastions xd
-[00:32:40] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> guarda las coordenadas
-[00:32:46] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> estan cerca
-[00:33:39] [Async Chat Thread - #14/INFO]: [Not Secure] <david_gumer123> vienes oq
-[00:33:42] [Async Chat Thread - #15/INFO]: [Not Secure] <naran_jita> un piglin me robo mi pechera
-[00:33:49] [Async Chat Thread - #15/INFO]: [Not Secure] <david_gumer123> dios mio
-[00:34:10] [Async Chat Thread - #15/INFO]: [Not Secure] <naran_jita> cual camin de piedraaaaaaaaaaaa
-[00:34:28] [Async Chat Thread - #15/INFO]: [Not Secure] <david_gumer123> donmde estas
-[00:34:39] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> atras
-[00:34:47] [Async Chat Thread - #14/INFO]: [Not Secure] <naran_jita> ese me la robo
-[00:35:50] [Async Chat Thread - #16/INFO]: [Not Secure] <david_gumer123> slai wn q ando lageado y no puedo esquivarla
-[00:36:43] [Async Chat Thread - #17/INFO]: [Not Secure] <david_gumer123> veni aca
-[00:36:50] [Async Chat Thread - #17/INFO]: [Not Secure] <david_gumer123> ACAç
-[00:37:34] [Async Chat Thread - #17/INFO]: [Not Secure] <david_gumer123> no entres
-[00:38:09] [Server thread/INFO]: naran_jita has made the advancement [Those Were the Days]
-[00:38:13] [Server thread/INFO]: david_gumer123 has made the advancement [Those Were the Days]
-[00:38:25] [Async Chat Thread - #17/INFO]: [Not Secure] <naran_jita> dnd estas?
+[00:47:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[00:47:04] [Server thread/INFO]: Default game type: SURVIVAL
+[00:47:04] [Server thread/INFO]: Generating keypair
+[00:47:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:47:05] [Server thread/INFO]: Using epoll channel type
+[00:47:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:47:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:47:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:47:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:47:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:47:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:47:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:47:05] [Server thread/INFO]: Preparing level "world"
+[00:47:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:47:07] [Server thread/INFO]: Time elapsed: 665 ms
+[00:47:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:47:08] [Server thread/INFO]: Time elapsed: 626 ms
+[00:47:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:47:08] [Server thread/INFO]: Time elapsed: 177 ms
+[00:47:08] [Server thread/INFO]: Running delayed init tasks
+[00:47:08] [Server thread/INFO]: Done (8.646s)! For help, type "help"
+[00:47:08] [Server thread/INFO]: Timings Reset
+[00:47:15] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
+[00:47:17] [Server thread/INFO]: naran_jita joined the game
+[00:47:17] [Server thread/INFO]: naran_jita[/127.203.35.244:56029] logged in with entity id 22 at ([world_nether]89.30000001192093, 37.0, 461.8213843324851)
+[00:47:22] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 05de03f4-27a8-4262-b84e-a4d69a107345, mapped to EntityPiglin['Piglin'/73, uuid='05de03f4-27a8-4262-b84e-a4d69a107345', l='ServerLevel[world_nether]', x=52.82, y=36.00, z=458.59, cpos=[3, 28], tl=8889, v=true], can't add EntityPiglin['Piglin'/99, uuid='05de03f4-27a8-4262-b84e-a4d69a107345', l='ServerLevel[world_nether]', x=58.46, y=36.00, z=464.20, cpos=[3, 29], tl=9140, v=false]
+[00:47:22] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: bc9199dc-7a73-4fd6-873d-d33276b4674d, mapped to EntityPiglin['Piglin'/74, uuid='bc9199dc-7a73-4fd6-873d-d33276b4674d', l='ServerLevel[world_nether]', x=54.56, y=33.00, z=461.84, cpos=[3, 28], tl=8889, v=true], can't add EntityPiglin['Piglin'/100, uuid='bc9199dc-7a73-4fd6-873d-d33276b4674d', l='ServerLevel[world_nether]', x=56.49, y=33.00, z=466.38, cpos=[3, 29], tl=9140, v=false]
+[00:47:22] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 795c8f54-05ad-4f54-b98b-15e121cb537e, mapped to EntityPiglin['Piglin'/105, uuid='795c8f54-05ad-4f54-b98b-15e121cb537e', l='ServerLevel[world_nether]', x=128.82, y=90.00, z=436.68, cpos=[8, 27], tl=2175, v=true], can't add EntityPiglin['Piglin'/110, uuid='795c8f54-05ad-4f54-b98b-15e121cb537e', l='ServerLevel[world_nether]', x=124.34, y=90.00, z=427.36, cpos=[7, 26], tl=1630, v=false]
+[00:47:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2610ms or 52 ticks behind
+[00:47:24] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 0c6cf173-82d7-4d08-bd7b-fc4718473e93, mapped to EntityPigZombie['Zombified Piglin'/171, uuid='0c6cf173-82d7-4d08-bd7b-fc4718473e93', l='ServerLevel[world_nether]', x=199.28, y=38.00, z=523.90, cpos=[12, 32], tl=114, v=true], can't add EntityPigZombie['Zombified Piglin'/176, uuid='0c6cf173-82d7-4d08-bd7b-fc4718473e93', l='ServerLevel[world_nether]', x=194.49, y=39.00, z=529.20, cpos=[12, 33], tl=644, v=false]
+[00:47:24] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
+[00:47:25] [Server thread/INFO]: david_gumer123 joined the game
+[00:47:25] [Server thread/INFO]: david_gumer123[/127.106.39.124:53835] logged in with entity id 177 at ([world_nether]71.55858798470044, 39.0, 482.2070742015276)
+[00:47:29] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> ten cuidado
+[00:47:40] [Server thread/INFO]: naran_jita has made the advancement [War Pigs]
+[00:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5882ms or 117 ticks behind
+[00:48:11] [Server thread/INFO]: david_gumer123 has made the advancement [Who is Cutting Onions?]
+[00:48:44] [Server thread/INFO]: naran_jita has made the advancement [Who is Cutting Onions?]
+[00:51:47] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> cuidado hay un bruto
+[00:51:52] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> oka
+[00:52:25] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> teeen
+[00:53:27] [Server thread/INFO]: david_gumer123 has made the advancement [Take Aim]
+[00:54:41] [Server thread/INFO]: david_gumer123 has completed the challenge [Return to Sender]
+[00:55:10] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> no encuentro el oro
+[00:55:15] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> yo tengo
+[00:55:19] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> no el oro
+[00:55:23] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> los blqouies de oro
+[00:55:28] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ah
+[00:55:57] [Server thread/INFO]: naran_jita was slain by Piglin Brute
+[00:56:02] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> hay dios mio
+[00:56:03] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ptm
+[00:56:06] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> te dije
+[00:56:08] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> qliao
+[00:56:09] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ve por mis cosas
+[00:56:16] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> cXDDDDDDDDDDDDD
+[00:56:17] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> estan ahi
+[00:56:21] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> VEVEVEVEV
