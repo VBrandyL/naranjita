@@ -1,102 +1,171 @@
-[03:23:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:23:42] [ServerMain/INFO]: Loaded 1174 recipes
-[03:23:43] [ServerMain/INFO]: Loaded 1271 advancements
-[03:23:43] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[03:23:43] [Server thread/INFO]: Loading properties
-[03:23:43] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[03:23:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:23:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:23:47] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[22:35:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:35:37] [ServerMain/INFO]: Loaded 1174 recipes
+[22:35:37] [ServerMain/INFO]: Loaded 1271 advancements
+[22:35:38] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[22:35:38] [Server thread/INFO]: Loading properties
+[22:35:38] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[22:35:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:35:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:35:40] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[03:23:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[03:23:48] [Server thread/INFO]: Default game type: SURVIVAL
-[03:23:48] [Server thread/INFO]: Generating keypair
-[03:23:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:23:48] [Server thread/INFO]: Using epoll channel type
-[03:23:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:23:49] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:23:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:23:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:23:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:23:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:23:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:23:49] [Server thread/INFO]: Preparing level "world"
-[03:23:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:23:52] [Server thread/INFO]: Time elapsed: 579 ms
-[03:23:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:23:52] [Server thread/INFO]: Time elapsed: 325 ms
-[03:23:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:23:52] [Server thread/INFO]: Time elapsed: 156 ms
-[03:23:52] [Server thread/INFO]: Running delayed init tasks
-[03:23:52] [Server thread/INFO]: Done (9.102s)! For help, type "help"
-[03:23:52] [Server thread/INFO]: Timings Reset
-[03:23:57] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[03:23:59] [Server thread/INFO]: naran_jita joined the game
-[03:23:59] [Server thread/INFO]: naran_jita[/127.203.35.244:47095] logged in with entity id 10 at ([world]1111.1819991311017, 126.0, -33.745084718658774)
-[03:24:07] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 33f1155a-0706-42d6-ab00-9f40664665a6, mapped to EntityBat['Bat'/140, uuid='33f1155a-0706-42d6-ab00-9f40664665a6', l='ServerLevel[world]', x=1125.52, y=33.39, z=-57.97, cpos=[70, -4], tl=917, v=true], can't add EntityBat['Bat'/151, uuid='33f1155a-0706-42d6-ab00-9f40664665a6', l='ServerLevel[world]', x=1124.74, y=29.65, z=-66.73, cpos=[70, -5], tl=954, v=false]
-[03:24:08] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 6821f32e-2bd8-465c-ac81-c5e6d11d3e60, mapped to EntityBat['Bat'/190, uuid='6821f32e-2bd8-465c-ac81-c5e6d11d3e60', l='ServerLevel[world]', x=1028.32, y=16.70, z=-45.21, cpos=[64, -3], tl=462, v=true], can't add EntityBat['Bat'/223, uuid='6821f32e-2bd8-465c-ac81-c5e6d11d3e60', l='ServerLevel[world]', x=1028.42, y=17.12, z=-49.19, cpos=[64, -4], tl=485, v=false]
-[03:24:08] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: e1ef4d6c-fabb-4917-a359-ad7eea50cba7, mapped to EntitySkeleton['Skeleton'/216, uuid='e1ef4d6c-fabb-4917-a359-ad7eea50cba7', l='ServerLevel[world]', x=1103.50, y=36.00, z=47.50, cpos=[68, 2], tl=37, v=true], can't add EntitySkeleton['Skeleton'/224, uuid='e1ef4d6c-fabb-4917-a359-ad7eea50cba7', l='ServerLevel[world]', x=1108.21, y=35.00, z=49.51, cpos=[69, 3], tl=572, v=false]
-[03:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
-[03:25:51] [User Authenticator #1/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[03:25:52] [Server thread/INFO]: david_gumer123 joined the game
-[03:25:52] [Server thread/INFO]: david_gumer123[/127.106.39.124:42731] logged in with entity id 519 at ([world]1111.5400814558868, 126.0, -36.722897601144005)
-[03:25:59] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> taxd
-[03:26:15] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> sr duplico JASJSAAJ
-[03:26:23] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> yep
-[03:29:58] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> ten
-[03:30:21] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> oe q
-[03:30:33] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> q hjice
-[03:30:50] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> KJSAJSJASJ no nada
-[03:31:12] [Server thread/INFO]: david_gumer123 was slain by naran_jita
-[03:31:18] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> tenia 20 de xp qlaio
-[03:31:21] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> AKSJKASJKASJKASJAKSJ
-[03:31:24] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ay
-[03:31:59] [Server thread/INFO]: david_gumer123 was slain by naran_jita
-[03:32:17] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> eso pq me volviste a pegar
-[03:32:38] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> el mechero
-[03:32:39] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ua me calmo
-[03:32:45] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> no lo tengo
-[03:32:59] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> te hago uno?
-[03:33:09] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> no
-[03:34:02] [Server thread/INFO]: naran_jita was slain by david_gumer123
-[03:34:41] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> calmao
-[03:34:43] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> listo
-[03:34:44] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> calamao
-[03:35:15] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ya me calmo
-[03:35:22] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> rta
-[03:35:23] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ta
-[03:35:24] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> a dnd vas
-[03:35:27] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> listo
-[03:36:52] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> ta
-[03:36:55] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> bnas noches
-[03:37:04] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> bns nocheeees descansaaa
-[03:37:06] [Server thread/INFO]: david_gumer123 lost connection: Disconnected
-[03:37:06] [Server thread/INFO]: david_gumer123 left the game
-[03:37:24] [Server thread/INFO]: naran_jita lost connection: Disconnected
-[03:37:24] [Server thread/INFO]: naran_jita left the game
-[03:37:29] [Server thread/INFO]: Stopping server
-[03:37:29] [Server thread/INFO]: Saving players
-[03:37:29] [Server thread/INFO]: Saving worlds
-[03:37:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[03:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:37:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 55 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[03:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:37:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:37:30] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[03:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:37:30] [Server thread/INFO]: Flushing Chunk IO
-[03:37:30] [Server thread/INFO]: Closing Thread Pool
-[03:37:30] [Server thread/INFO]: Closing Server
+[22:35:40] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:35:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:35:41] [Server thread/INFO]: Generating keypair
+[22:35:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:35:41] [Server thread/INFO]: Using epoll channel type
+[22:35:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:35:41] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:35:41] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loading 8 libraries... please wait
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/54/commons-parent-54.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/27/apache-27.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.9.1/junit-bom-5.9.1.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/7.0.0/guice-parent-7.0.0.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.6/project-1.0.6.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/31.0.1-jre/guava-parent-31.0.1-jre.pom
+[22:35:42] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/26.0-android/guava-parent-26.0-android.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.7.1/error_prone_parent-2.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.0/adventure-api-4.13.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.0/adventure-bom-4.13.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.0/adventure-key-4.13.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[22:35:43] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.0/adventure-text-serializer-legacy-4.13.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.14.0/adventure-bom-4.14.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.pom
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[22:35:44] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/inject/guice/7.0.0/guice-7.0.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/cloud/commandframework/cloud-core/1.7.1/cloud-core-1.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/cloud/commandframework/cloud-services/1.7.1/cloud-services-1.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/io/leangen/geantyref/geantyref/1.3.13/geantyref-1.3.13.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/checkerframework/checker-qual/3.22.1/checker-qual-3.22.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/cloud/commandframework/cloud-bukkit/1.7.1/cloud-bukkit-1.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/cloud/commandframework/cloud-brigadier/1.7.1/cloud-brigadier-1.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/cloud/commandframework/cloud-tasks/1.7.1/cloud-tasks-1.7.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.0/adventure-platform-bukkit-4.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.0/adventure-platform-api-4.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.0/adventure-text-serializer-bungeecord-4.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.0/adventure-nbt-4.13.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.13.0/adventure-text-serializer-gson-4.13.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.0/adventure-text-serializer-gson-legacy-impl-4.13.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.0/adventure-platform-facet-4.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.0/adventure-platform-viaversion-4.3.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-key/4.14.0/adventure-key-4.14.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar
+[22:35:44] [Server thread/INFO]: [SpigotLibraryLoader] [DeathChest] Loaded library /workspaces/naranjita/servidor_minecraft/libraries/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar
+[22:35:44] [Server thread/INFO]: [DeathChest] Loading server plugin DeathChest v2.2.7
+[22:35:44] [Server thread/INFO]: [JustTPA] Loading server plugin JustTPA vv20240824-beta
+[22:35:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:35:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:35:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:35:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:35:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:35:45] [Server thread/INFO]: Preparing level "world"
+[22:35:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:35:46] [Server thread/INFO]: Time elapsed: 325 ms
+[22:35:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:35:46] [Server thread/INFO]: Time elapsed: 227 ms
+[22:35:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:35:46] [Server thread/INFO]: Time elapsed: 120 ms
+[22:35:46] [Server thread/INFO]: [DeathChest] Enabling DeathChest v2.2.7
+[22:35:47] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world"
+[22:35:47] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[22:35:47] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_nether"
+[22:35:47] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[22:35:47] [Server thread/INFO]: [DeathChest] 0 death chests loaded in world "world_the_end"
+[22:35:47] [Server thread/INFO]: [DeathChest]   Of these 0 have expired
+[22:35:48] [Server thread/INFO]: [JustTPA] Enabling JustTPA vv20240824-beta
+[22:35:48] [Server thread/INFO]: [JustTPA] JustTPA initialized
+[22:35:48] [Server thread/INFO]: [JustTPA] bStats enabled
+[22:35:48] [Server thread/INFO]: [JustTPA] Checking for updates...
+[22:35:48] [Server thread/INFO]: Running delayed init tasks
+[22:35:48] [Server thread/INFO]: Done (10.187s)! For help, type "help"
+[22:35:48] [Server thread/INFO]: Timings Reset
