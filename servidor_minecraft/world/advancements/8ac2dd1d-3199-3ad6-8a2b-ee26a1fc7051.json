@@ -381,7 +381,8 @@
       "glow_berries": "2025-01-09 01:41:12 +0000",
       "cooked_beef": "2025-01-09 03:11:09 +0000",
       "melon_slice": "2025-01-09 01:32:31 +0000",
-      "tropical_fish": "2025-01-09 02:18:18 +0000"
+      "tropical_fish": "2025-01-09 02:18:18 +0000",
+      "golden_carrot": "2025-01-10 00:55:06 +0000"
     },
     "done": false
   },
@@ -1985,6 +1986,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-10 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-10 00:53:27 +0000"
     },
     "done": true
   },
