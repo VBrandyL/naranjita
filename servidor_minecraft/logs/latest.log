@@ -1,136 +1,125 @@
-[02:06:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:06:24] [ServerMain/INFO]: Loaded 1174 recipes
-[02:06:25] [ServerMain/INFO]: Loaded 1271 advancements
-[02:06:26] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:06:26] [Server thread/INFO]: Loading properties
-[02:06:26] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
-[02:06:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:06:29] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:06:30] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[02:44:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:44:30] [ServerMain/INFO]: Loaded 1174 recipes
+[02:44:31] [ServerMain/INFO]: Loaded 1271 advancements
+[02:44:31] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[02:44:31] [Server thread/INFO]: Loading properties
+[02:44:31] [Server thread/INFO]: This server is running Paper version git-Paper-497 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: d8d54d9 on ver/1.20.4)
+[02:44:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:44:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:44:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:06:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:06:31] [Server thread/INFO]: Default game type: SURVIVAL
-[02:06:31] [Server thread/INFO]: Generating keypair
-[02:06:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:06:31] [Server thread/INFO]: Using epoll channel type
-[02:06:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:06:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:06:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:06:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:06:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:06:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:06:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:06:31] [Server thread/INFO]: Preparing level "world"
-[02:06:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:06:34] [Server thread/INFO]: Time elapsed: 1464 ms
-[02:06:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:06:34] [Server thread/INFO]: Time elapsed: 265 ms
-[02:06:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:06:35] [Server thread/INFO]: Time elapsed: 224 ms
-[02:06:35] [Server thread/INFO]: Running delayed init tasks
-[02:06:35] [Server thread/INFO]: Done (9.359s)! For help, type "help"
-[02:06:35] [Server thread/INFO]: Timings Reset
-[02:06:45] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
-[02:06:47] [Server thread/INFO]: naran_jita joined the game
-[02:06:47] [Server thread/INFO]: naran_jita[/127.203.35.244:48245] logged in with entity id 47 at ([world]1088.1847615871573, 120.0, -18.678641249284578)
-[02:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
-[02:07:08] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
-[02:07:09] [Server thread/INFO]: david_gumer123 joined the game
-[02:07:09] [Server thread/INFO]: david_gumer123[/127.106.39.124:38163] logged in with entity id 344 at ([world_nether]-111.61476739760283, 37.0, 242.69999998807907)
-[02:07:10] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: fb415be0-49ae-4ab9-b361-969c632f0a43, mapped to EntityPiglin['Piglin'/348, uuid='fb415be0-49ae-4ab9-b361-969c632f0a43', l='ServerLevel[world_nether]', x=-109.80, y=50.00, z=242.53, cpos=[-7, 15], tl=39001, v=true], can't add EntityPiglin['Piglin'/353, uuid='fb415be0-49ae-4ab9-b361-969c632f0a43', l='ServerLevel[world_nether]', x=-112.41, y=51.00, z=242.79, cpos=[-8, 15], tl=37710, v=false]
-[02:07:10] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: c2bafbad-42fd-4e9a-9337-21f2d6e8059f, mapped to EntityPiglin['Piglin'/365, uuid='c2bafbad-42fd-4e9a-9337-21f2d6e8059f', l='ServerLevel[world_nether]', x=-125.31, y=38.00, z=259.49, cpos=[-8, 16], tl=36836, v=true], can't add EntityPiglin['Piglin'/369, uuid='c2bafbad-42fd-4e9a-9337-21f2d6e8059f', l='ServerLevel[world_nether]', x=-141.51, y=39.00, z=254.80, cpos=[-9, 15], tl=37251, v=false]
-[02:07:11] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 98fdceca-09bc-4a0c-be6f-8542f1d28cdb, mapped to EntityHoglin['Hoglin'/366, uuid='98fdceca-09bc-4a0c-be6f-8542f1d28cdb', l='ServerLevel[world_nether]', x=-127.62, y=59.00, z=227.04, cpos=[-8, 14], tl=277, v=true], can't add EntityHoglin['Hoglin'/375, uuid='98fdceca-09bc-4a0c-be6f-8542f1d28cdb', l='ServerLevel[world_nether]', x=-131.61, y=59.00, z=227.00, cpos=[-9, 14], tl=692, v=false]
-[02:07:26] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> me encanta esto
-[02:07:31] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> literalmente
-[02:07:40] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> hice una torre para subir
-[02:07:42] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> q paso
-[02:07:43] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> osea
-[02:07:48] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> se quedo la torre construida
-[02:07:51] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> pero yo estoy abajo
-[02:07:54] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> XDDDDDDDDDDDDDDDDD
-[02:07:57] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> KASJKAJSAJSJAS
-[02:09:00] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> tenemos la oltra tore para revisar
-[02:09:03] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> de la bastion
-[02:09:05] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> pq elegimos una capa tan alta para la base
-[02:09:05] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> pero eso dsp
-[02:09:06] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> xd
-[02:09:13] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> oakoka
-[02:09:13] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> porq me pinto ami
-[02:09:15] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> si no
-[02:09:21] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> metase la verga
-[02:09:28] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> que traes wn
-[02:09:34] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> ta
-[02:09:49] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> esq ando enojaoç
-[02:10:06] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> morimos
-[02:10:07] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> bueno
-[02:10:09] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> neta, eso no es para que me hables asi
-[02:10:15] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> te estoy hablando bn
-[02:10:17] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> perdon
-[02:11:07] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> no nada mas por un enojo te voy a decir que te metas una vrg por el culo
-[02:11:20] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> encontre una amatista
-[02:11:24] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> eh¿
-[02:11:26] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> no dije eso
-[02:11:40] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> dije metase¿
-[02:11:43] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> a verdad
-[02:12:01] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> bueno si perdon pero no queria decir eso xd
-[02:12:55] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> meperdonasUWU?
-[02:13:20] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> ostias
-[02:13:23] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> si
-[02:13:28] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> em
-[02:13:33] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> eu
-[02:13:41] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> me pasas las cords de la base?
-[02:14:08] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> hay un problema
-[02:14:10] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> el protal
-[02:14:17] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> no esta conectado con el portal de la base
-[02:14:25] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> a bueno
-[02:14:28] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> nnonono
-[02:14:30] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> esta cerca
-[02:15:03] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> deja subo y te paso las coordenadas
-[02:15:08] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> no ya esta
-[02:15:12] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> ok
-[02:15:14] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> osea esta cerca el protal
-[02:15:30] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> espera, deja cambio el mouse de mi lap
-[02:15:39] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> ta
-[02:16:07] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> fuimos al nether
-[02:16:09] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> y al final
-[02:16:23] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> perdimos mas de lo que conseguimos XDDD
-[02:16:32] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> yep
-[02:16:59] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> pero la vida sigue
-[02:17:10] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> el minecraft es eterno
-[02:17:39] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ven
-[02:18:13] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> estoy en labase
-[02:18:25] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> habria q hacer esscalera
-[02:18:29] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ve a donde esta el aldeano y baja a la mina que hice
-[02:18:36] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> sisi baja
-[02:18:38] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> espera q cocino comida
-[02:18:47] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> creo que hay una mina grande abajo
-[02:19:15] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> creo q estas en la mina q yo estaba
-[02:19:47] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> a
-[02:20:20] [Async Chat Thread - #2/INFO]: [Not Secure] <david_gumer123> tto yuyebndo
-[02:20:23] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> toy yendo
-[02:20:33] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> traes un escudo extra?
-[02:20:37] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> ni
-[02:20:41] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> noi
-[02:20:49] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ya no hace falta
-[02:20:51] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> a
-[02:20:54] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> bueno
-[02:21:55] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> me das comida?
-[02:25:27] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> me perdi
-[02:25:35] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> yo tmnb
-[02:30:09] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> ayyuda
-[02:30:10] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> XD
-[02:30:13] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> estoy a 2 coras
-[02:30:32] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> vamos para arriba
-[02:30:34] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> donde era ls alida
-[02:30:38] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> de ahi vemos q pedo
-[02:30:42] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> no recuerdo
-[02:30:52] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> alla hay mobs
-[02:32:17] [Async Chat Thread - #10/INFO]: [Not Secure] <david_gumer123> era ca
-[02:32:29] [Async Chat Thread - #10/INFO]: [Not Secure] <david_gumer123> crepo
-[02:34:09] [Async Chat Thread - #12/INFO]: [Not Secure] <david_gumer123> sabes lo que haria?
-[02:34:16] [Async Chat Thread - #13/INFO]: [Not Secure] <naran_jita> que
-[02:34:18] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> IR A POR COMIDA DE UNA BUENA VEZ
-[02:34:20] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> ajsjajas
-[02:34:24] [Async Chat Thread - #13/INFO]: [Not Secure] <david_gumer123> osea
-[02:35:49] [Server thread/INFO]: naran_jita has made the advancement [Cover Me with Diamonds]
+[02:44:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:44:35] [Server thread/INFO]: Default game type: SURVIVAL
+[02:44:35] [Server thread/INFO]: Generating keypair
+[02:44:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:44:36] [Server thread/INFO]: Using epoll channel type
+[02:44:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:44:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:44:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:44:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:44:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:44:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:44:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:44:36] [Server thread/INFO]: Preparing level "world"
+[02:44:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:44:38] [Server thread/INFO]: Time elapsed: 740 ms
+[02:44:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:44:39] [Server thread/INFO]: Time elapsed: 507 ms
+[02:44:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:44:39] [Server thread/INFO]: Time elapsed: 206 ms
+[02:44:39] [Server thread/INFO]: Running delayed init tasks
+[02:44:39] [Server thread/INFO]: Done (8.431s)! For help, type "help"
+[02:44:39] [Server thread/INFO]: Timings Reset
+[02:44:43] [User Authenticator #0/INFO]: UUID of player naran_jita is 8ac2dd1d-3199-3ad6-8a2b-ee26a1fc7051
+[02:44:45] [Server thread/INFO]: naran_jita joined the game
+[02:44:45] [Server thread/INFO]: naran_jita[/127.203.35.244:42901] logged in with entity id 10 at ([world]1112.7110074595237, 126.0, -32.5740960099722)
+[02:44:54] [User Authenticator #0/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
+[02:44:55] [Server thread/INFO]: david_gumer123 joined the game
+[02:44:55] [Server thread/INFO]: david_gumer123[/127.106.39.124:40947] logged in with entity id 135 at ([world]1087.8894409776876, 126.0, -58.39908912551463)
+[02:44:56] [Server thread/WARN]: [EntityLookup] Entity uuid already exists: 113c2c0d-6433-4ac8-b3f0-31a58f379c94, mapped to EntityHorse['Horse'/211, uuid='113c2c0d-6433-4ac8-b3f0-31a58f379c94', l='ServerLevel[world]', x=1041.87, y=80.00, z=-75.85, cpos=[65, -5], tl=177350, v=true], can't add EntityHorse['Horse'/228, uuid='113c2c0d-6433-4ac8-b3f0-31a58f379c94', l='ServerLevel[world]', x=1038.05, y=82.00, z=-69.63, cpos=[64, -5], tl=171727, v=false]
+[02:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[02:45:04] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> LA PUTS MADRE
+[02:45:05] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> aeaeesaesa
+[02:45:12] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> na
+[02:45:14] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> no puede ser esto
+[02:45:28] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:45:29] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> no tengo nada de comida
+[02:45:33] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> NADA
+[02:45:53] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> com tenes los filtes q te di?
+[02:45:58] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> XD?
+[02:46:00] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> ns
+[02:46:11] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> duerme
+[02:46:21] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> awwawawawawwwwawawaw
+[02:46:22] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> y voy a buscar comida
+[02:46:24] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> zzzzzzzzzzzzz
+[02:46:30] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> otra vez
+[02:46:32] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> se
+[02:46:51] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> en ves de animale hay creeper
+[02:47:24] [Async Chat Thread - #0/INFO]: [Not Secure] <naran_jita> encontre 3 ovejas
+[02:47:40] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> si estan en la montaña
+[02:47:42] [Async Chat Thread - #0/INFO]: [Not Secure] <david_gumer123> no las mates
+[02:47:48] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> a
+[02:47:54] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> a
+[02:48:03] [Async Chat Thread - #1/INFO]: [Not Secure] <naran_jita> KASJKAJSJ
+[02:48:33] [Async Chat Thread - #1/INFO]: [Not Secure] <david_gumer123> la idea es matar a los de abajo pòrq se q no lo vamos a usar y las de la montaña la dejamos para q sea mas facil hacer granaj
+[02:49:24] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.29695460257562445
+[02:49:24] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.7582593700501548
+[02:49:55] [Async Chat Thread - #2/INFO]: [Not Secure] <naran_jita> ALDEAAAAAAAAAAAAAAAAA
+[02:50:03] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> ESTA GRANDEEEEEEEEEEEEEE
+[02:50:06] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> QUEEE
+[02:50:08] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[02:50:08] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> dondeee
+[02:50:13] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> PODEMOS MUDARNOS
+[02:50:17] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> NO ESTA LEJOS
+[02:50:21] [Async Chat Thread - #3/INFO]: [Not Secure] <david_gumer123> nao
+[02:50:32] [Async Chat Thread - #3/INFO]: [Not Secure] <naran_jita> 1222 81 253
+[02:50:50] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.30586170609797136
+[02:50:50] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.47420556161682725
+[02:50:50] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.5642830022906082
+[02:50:50] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 0.6124816448447064
+[02:51:34] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> tenemos papas
+[02:51:38] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ta
+[02:51:58] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> como me encantan el bioma negro
+[02:52:02] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> siempre tiene adlea
+[02:52:42] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> quito las mesas?
+[02:53:09] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> ya las quite
+[02:53:24] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> dejame ver la zona
+[02:53:33] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> yyyyyyyyyyyyyy
+[02:53:38] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> es que me gusta mas la montaña
+[02:53:45] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> es mas linda y plana
+[02:53:49] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> a
+[02:53:51] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ns que opinas vos?¿
+[02:54:03] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> los podemos mover
+[02:54:07] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> no esta lejos
+[02:54:14] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> a los aldeanos si
+[02:54:28] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> movamoslos
+[02:54:37] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> pero vamosa a ncesitar hierro
+[02:54:39] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> ahora no
+[02:54:50] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> minimo 3 stacks de hierroo
+[02:54:54] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> los encerramos pr el momento?
+[02:54:58] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> se
+[02:55:04] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> lootea todo
+[02:55:45] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> vigila a mi caballo
+[02:55:48] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> porfi
+[02:56:36] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> no veo a mi caballo
+[02:56:42] [Async Chat Thread - #5/INFO]: [Not Secure] <david_gumer123> ta cca
+[02:56:43] [Async Chat Thread - #5/INFO]: [Not Secure] <david_gumer123> aca
+[02:57:02] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> ahora si, a encerrar
+[02:57:36] [Server thread/INFO]: naran_jita was slain by Zombie
+[02:57:44] [Async Chat Thread - #5/INFO]: [Not Secure] <david_gumer123> QUE
+[02:57:44] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> ASJKASJAKSJASJ
+[02:57:54] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> esra uno de los chiquitos
+[02:57:55] [Async Chat Thread - #5/INFO]: [Not Secure] <david_gumer123> dondemoriste
+[02:58:00] [Async Chat Thread - #5/INFO]: [Not Secure] <naran_jita> T_T
+[02:58:05] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> por ahi
+[02:58:15] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> por donde me diste al caballo
+[02:58:16] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> no me sirve un por ahi
+[02:58:29] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> voy a llevar tu caballo
+[02:58:36] [Async Chat Thread - #4/INFO]: [Not Secure] <david_gumer123> no
+[02:58:41] [Async Chat Thread - #4/INFO]: [Not Secure] <naran_jita> a
+[02:59:01] [Server thread/INFO]: david_gumer123 has made the advancement [Cover Me with Diamonds]
+[03:00:01] [Async Chat Thread - #6/INFO]: [Not Secure] <david_gumer123> creo q te consegui todo
+[03:00:14] [Async Chat Thread - #6/INFO]: [Not Secure] <naran_jita> ya estoy llegando
+[03:03:43] [Async Chat Thread - #8/INFO]: [Not Secure] <naran_jita> sabes dnd esta mi caballo?
+[03:03:52] [Async Chat Thread - #8/INFO]: [Not Secure] <david_gumer123> esta en el coso donde mrositr
