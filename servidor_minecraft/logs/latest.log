@@ -89,3 +89,6 @@
 [22:37:39] [Server thread/WARN]: Horse (vehicle of naran_jita) moved wrongly! 2.6215792319356703
 [22:41:15] [Server thread/INFO]: naran_jita lost connection: Disconnected
 [22:41:15] [Server thread/INFO]: naran_jita left the game
+[22:43:47] [User Authenticator #1/INFO]: UUID of player david_gumer123 is 851ff068-2a0e-3c5c-ae31-3a7bfb4002db
+[22:43:48] [Server thread/INFO]: david_gumer123 joined the game
+[22:43:48] [Server thread/INFO]: david_gumer123[/127.106.39.124:49809] logged in with entity id 1619 at ([world]1111.3602539734688, 126.0, -34.43059480964156)
